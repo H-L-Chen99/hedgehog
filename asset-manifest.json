@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hedgehog/static/css/main.653c2585.css",
-    "main.js": "/hedgehog/static/js/main.926a3ca6.js",
+    "main.js": "/hedgehog/static/js/main.777ddb16.js",
     "static/js/453.6ff408b9.chunk.js": "/hedgehog/static/js/453.6ff408b9.chunk.js",
     "index.html": "/hedgehog/index.html",
     "main.653c2585.css.map": "/hedgehog/static/css/main.653c2585.css.map",
-    "main.926a3ca6.js.map": "/hedgehog/static/js/main.926a3ca6.js.map",
+    "main.777ddb16.js.map": "/hedgehog/static/js/main.777ddb16.js.map",
     "453.6ff408b9.chunk.js.map": "/hedgehog/static/js/453.6ff408b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653c2585.css",
-    "static/js/main.926a3ca6.js"
+    "static/js/main.777ddb16.js"
   ]
 }
